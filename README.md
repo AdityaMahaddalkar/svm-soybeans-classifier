@@ -4,7 +4,7 @@
 
 ## Support Vector Machines
 
-*In machine learning, support vector machines (SVMs, also support vector networks[1]) are supervised learning models
+*In machine learning, support vector machines (SVMs, also support vector networks) are supervised learning models
 with associated learning algorithms that analyze data for classification and regression analysis. Developed at AT&T Bell
 Laboratories by Vladimir Vapnik with colleagues, SVMs are one of the most robust prediction methods, being based on
 statistical learning frameworks or VC theory proposed by Vapnik (1982, 1995) and Chervonenkis (1974). Given a set of
